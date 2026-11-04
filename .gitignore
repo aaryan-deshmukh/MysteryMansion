@@ -1,0 +1,13 @@
+# Secrets
+config.properties
+
+# Build output
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+out/
